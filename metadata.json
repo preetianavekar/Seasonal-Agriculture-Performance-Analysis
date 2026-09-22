@@ -1,0 +1,6 @@
+{
+  "name": "Seasonal Agriculture Performance Analysis",
+  "description": "Multi-dimensional empirical study analyzing agricultural performance, crop yields, resource efficiency, and financial margins across Kharif, Rabi, and Zaid seasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
